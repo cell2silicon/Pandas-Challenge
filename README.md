@@ -4,3 +4,4 @@
 <br /> I have attempted to arrange this data according to the instructions given.
 <br /> This data has values with items, gender, and different items with different price value.
 <br /> I have arranged this data according to the different colums of data.
+<br /> After this i have performed the basic calculations to get the instructed results from the data. 
